@@ -1,2 +1,6 @@
 # rb_saberid
-Simple Script para saber tu ID dentro del servidor.
+RB_SABERID v1 - Simple script para saber tu ID dentro del Servidor.
+
+Comandos: "/verid"
+
+--## Discord - rebuscado#1337 ##--
